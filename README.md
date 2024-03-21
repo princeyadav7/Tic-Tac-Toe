@@ -1,13 +1,12 @@
 **Flutter Tic-Tac-Toe**
-This is a simple Tic-Tac-Toe game built using the Flutter framework. 
 
+This is a simple Tic-Tac-Toe game built using the Flutter framework.
 It offers a classic gaming experience with a clean and intuitive interface.
 
-Features:
+**Features:**
+
 Two Player Mode: Play against a friend on the same device.
-
 Responsive Design: Optimized for both phones and tablets.
-
 Beautiful UI: Clean and modern user interface design.
 
 Screenshots:
